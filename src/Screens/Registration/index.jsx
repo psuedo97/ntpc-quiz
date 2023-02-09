@@ -8,26 +8,31 @@ const Registration = () => {
   const navigation = useNavigate();
 
   const handleSubmit = () => {
-    const userData = {
-      name: name,
-      number: mobile,
-      createdAt: moment().format("MMMM Do YYYY, h:mm:ss a"),
-    };
-    console.log("hello>>>>", userData);
-    fetch("http://localhost:3001/save/", {
-      method: "POST",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
+    var checkNumber = /^\d{10}$/;
+    if (checkNumber.test(mobile)) {
+      const userData = {
         name: name,
-        mobile: mobile,
-      }),
-    });
-    navigation("/quiz");
+        number: mobile,
+        createdAt: moment().format("MMMM Do YYYY, h:mm:ss a"),
+      };
+      console.log("hello>>>>", userData);
+      fetch("http://localhost:3001/save/", {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          name: name,
+          mobile: mobile,
+        }),
+      });
+      navigation("/quiz");
+    } else {
+      alert("Enter Valid mobile number");
+    }
   };
-  
+
   return (
     <div className="landing-body">
       <div className="w-100 d-flex justify-content-center">
@@ -65,6 +70,7 @@ const Registration = () => {
                         pattern="[0-9]{10}"
                         value={mobile}
                         onChange={(e) => setMobile(e.target.value)}
+                        required
                       />
                     </div>
                   </div>

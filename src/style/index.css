@@ -1,3 +1,6 @@
+body {
+  overflow-x: hidden;
+}
 .landing-body {
   background-image: url("../assets/bg-2.jpg");
   height: 100vh;
@@ -140,26 +143,43 @@ input::-webkit-inner-spin-button {
   margin-bottom: 0;
   width: 100%;
 }
-.smileLogo{
+.smileLogo {
   width: 12vw;
 }
-.responseDiv{
+.responseDiv {
   margin: 2.5vw 0 2vw 0;
 }
-.responseDiv p{
+.responseDiv p {
   color: red;
   font-size: 2.5vw;
   font-weight: 800;
 }
-.thankyou p{
+.thankyou p {
   color: #214634;
   font-size: 2vw;
   font-weight: 800;
 }
-.btn-home{
+.btn-home {
   width: 8vw;
   background-color: #214634 !important;
   color: white !important;
   font-size: 1.5vw !important;
   font-weight: 600 !important;
+}
+.home-div{
+  position: absolute;
+  left: 3vw;
+  top: 3vw;
+} 
+.home-btn{
+  color: #214634;
+  font-size: 2.5vw;
+}
+.home-text{
+  font-size: 1.5vw;
+  color: #214634;
+  font-weight: 700;
+}
+.cursor{
+  cursor: pointer;
 }

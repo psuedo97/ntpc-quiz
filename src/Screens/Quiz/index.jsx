@@ -17,6 +17,7 @@ import ans from "../../data/ans.json";
 import { useNavigate } from "react-router-dom";
 import { connect } from "react-redux";
 import { setScore } from "../../action/setScore";
+import { GoHome } from "react-icons/go";
 
 const Quiz = (props) => {
   const [page, setPage] = useState(0);
@@ -43,7 +44,17 @@ const Quiz = (props) => {
     if (value === answerId) {
       //console.log("Anwer Id >>>>",(value));
       setCorrectCount(correctCount + 1);
+      value.includes("a") && setA(rTl);
+      value.includes("b") && setB(rTr);
+      value.includes("c") && setC(rBl);
+      value.includes("d") && setD(rBr);
+    } else {
+      value.includes("a") && setA(wTl);
+      value.includes("b") && setB(wTr);
+      value.includes("c") && setC(wBl);
+      value.includes("d") && setD(wBr);
     }
+
     if (page < 10) {
       await delay(500);
       setPage(page + 1);
@@ -67,6 +78,7 @@ const Quiz = (props) => {
         val.qId === qId && setQues(val.value);
       });
       setOptions(list[page].aId);
+
       var option = list[page].aId;
       option.map((val, i) => {
         if (i === 0) {
@@ -97,6 +109,10 @@ const Quiz = (props) => {
       });
       setCount(count + 1);
     } else if (count > 0 && page < 10) {
+      setA(topLeft);
+      setB(topRight);
+      setC(bottomleft);
+      setD(bottomRight);
       var qId = Data[page].qId;
       quesData.map((val) => {
         val.qId === qId && setQues(val.value);
@@ -139,10 +155,24 @@ const Quiz = (props) => {
       setCount(0);
     }
   }, [page]);
+
+  const goHome = () => {
+    navigate("/");
+    setPage(0);
+    setCorrectCount(0);
+    setCount(0);
+  };
   return (
     <div className="landing-body">
       <div className="w-100 height-100 d-flex justify-content-center">
         <div className="content-quiz">
+          <div
+            className="home-div d-flex align-items-center cursor"
+            onClick={() => goHome()}
+          >
+            <GoHome className="home-btn" />{" "}
+            <span className="home-text">&nbsp;Home</span>
+          </div>
           <div className="question">
             <p className="color-green text-center">{ques}</p>
           </div>
@@ -153,14 +183,14 @@ const Quiz = (props) => {
                   return (
                     <div key={i} className="col-6 text-end top">
                       <img
-                        className="optionImg"
-                        src={topLeft}
+                        className="optionImg cursor"
+                        src={a}
                         onClick={() => {
                           checkAnswer(val);
                         }}
                       />
                       <p
-                        className="optionA text-start"
+                        className="optionA text-start cursor"
                         onClick={() => {
                           checkAnswer(val);
                         }}
@@ -173,14 +203,14 @@ const Quiz = (props) => {
                   return (
                     <div key={i} className="col-6 top">
                       <img
-                        className="optionImg"
-                        src={topRight}
+                        className="optionImg cursor"
+                        src={b}
                         onClick={() => {
                           checkAnswer(val);
                         }}
                       />
                       <p
-                        className="optionB"
+                        className="optionB cursor"
                         onClick={() => {
                           checkAnswer(val);
                         }}
@@ -193,14 +223,14 @@ const Quiz = (props) => {
                   return (
                     <div key={i} className="col-6 text-end">
                       <img
-                        className="optionImg"
-                        src={bottomleft}
+                        className="optionImg cursor"
+                        src={c}
                         onClick={() => {
                           checkAnswer(val);
                         }}
                       />
                       <p
-                        className="optionC text-start"
+                        className="optionC text-start cursor"
                         onClick={() => {
                           checkAnswer(val);
                         }}
@@ -213,14 +243,14 @@ const Quiz = (props) => {
                   return (
                     <div key={i} className="col-6">
                       <img
-                        className="optionImg"
-                        src={bottomRight}
+                        className="optionImg cursor"
+                        src={d}
                         onClick={() => {
                           checkAnswer(val);
                         }}
                       />
                       <p
-                        className="optionD"
+                        className="optionD cursor"
                         onClick={() => {
                           checkAnswer(val);
                         }}
