@@ -3,6 +3,14 @@ import topLeft from "../../assets/tl.svg";
 import topRight from "../../assets/tr.svg";
 import bottomRight from "../../assets/br.svg";
 import bottomleft from "../../assets/bl.svg";
+import rTl from "../../assets/right-tl.svg";
+import rTr from "../../assets/right-tr.svg";
+import rBl from "../../assets/right-bl.svg";
+import rBr from "../../assets/right-br.svg";
+import wTl from "../../assets/wrong-tl.svg";
+import wTr from "../../assets/wrong-tr.svg";
+import wBl from "../../assets/wrong-bl.svg";
+import wBr from "../../assets/wrong-br.svg";
 import data from "../../data/quiz.json";
 import quesData from "../../data/ques.json";
 import ans from "../../data/ans.json";
@@ -14,6 +22,10 @@ const Quiz = (props) => {
   const [page, setPage] = useState(0);
   const [ques, setQues] = useState("");
   const [correctCount, setCorrectCount] = useState(0);
+  const [a, setA] = useState(topLeft);
+  const [b, setB] = useState(topRight);
+  const [c, setC] = useState(bottomleft);
+  const [d, setD] = useState(bottomRight);
   const [options, setOptions] = useState([]);
   const [optionA, setOptionA] = useState("");
   const [optionB, setOptionB] = useState("");
@@ -47,7 +59,8 @@ const Quiz = (props) => {
 
   useEffect(() => {
     if (count === 0) {
-      var list = quizData(data, 5);
+      var list = quizData(data, 10);
+      console.log(list);
       setData(list);
       var qId = list[page].qId;
       quesData.map((val) => {
@@ -83,7 +96,7 @@ const Quiz = (props) => {
         }
       });
       setCount(count + 1);
-    } else if (count > 0 && page < 5) {
+    } else if (count > 0 && page < 10) {
       var qId = Data[page].qId;
       quesData.map((val) => {
         val.qId === qId && setQues(val.value);

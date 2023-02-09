@@ -478,5 +478,837 @@
     {
         "aID": "30d",
         "value": "Bill Clinton"
+    },
+    {
+        "aID": "31a",
+        "value": "Rajasthan"
+    },
+    {
+        "aID": "31b",
+        "value": "Tamil Nadu"
+    },
+    {
+        "aID": "31c",
+        "value": "Andhra Pradesh"
+    },
+    {
+        "aID": "31d",
+        "value": "Madhya Pradesh"
+    },
+    {
+        "aID": "32a",
+        "value": "Odisha"
+    },
+    {
+        "aID": "32b",
+        "value": "Jharkhand"
+    },
+    {
+        "aID": "32c",
+        "value": "West Bengal"
+    },
+    {
+        "aID": "32d",
+        "value": "Bihar"
+    },
+    {
+        "aID": "33a",
+        "value": "1976"
+    },
+    {
+        "aID": "33b",
+        "value": "1975"
+    },
+    {
+        "aID": "33c",
+        "value": "1905"
+    },
+    {
+        "aID": "33d",
+        "value": "1985"
+    },
+    {
+        "aID": "34a",
+        "value": "Piyush Pandey"
+    },
+    {
+        "aID": "34b",
+        "value": "Arindam Chaudhary"
+    },
+    {
+        "aID": "34c",
+        "value": "Sam Pitroda"
+    },
+    {
+        "aID": "34d",
+        "value": "Subrat Roy Sahara"
+    },
+    {
+        "aID": "35a",
+        "value": "Orissa"
+    },
+    {
+        "aID": "35b",
+        "value": "Chhattisgarh"
+    },
+    {
+        "aID": "35c",
+        "value": "Bihar"
+    },
+    {
+        "aID": "35d",
+        "value": "Jharkhand"
+    },
+    {
+        "aID": "36a",
+        "value": "Vison statement"
+    },
+    {
+        "aID": "36b",
+        "value": "Mission Statement"
+    },
+    {
+        "aID": "36c",
+        "value": "Policy Statement"
+    },
+    {
+        "aID": "36d",
+        "value": "Core Values"
+    },
+    {
+        "aID": "37a",
+        "value": "Dadri project"
+    },
+    {
+        "aID": "37b",
+        "value": "Faridabad Project"
+    },
+    {
+        "aID": "37c",
+        "value": "Badarpur Project"
+    },
+    {
+        "aID": "37d",
+        "value": "Unchahar Project"
+    },
+    {
+        "aID": "38a",
+        "value": "Balrampur Project"
+    },
+    {
+        "aID": "38b",
+        "value": "Sipat project"
+    },
+    {
+        "aID": "38c",
+        "value": "Barh Project"
+    },
+    {
+        "aID": "38d",
+        "value": "None of the above"
+    },
+    {
+        "aID": "39a",
+        "value": "Power Grid"
+    },
+    {
+        "aID": "39b",
+        "value": "NHPC"
+    },
+    {
+        "aID": "39c",
+        "value": "Reliance Energy"
+    },
+    {
+        "aID": "39d",
+        "value": "NTPC"
+    },
+    {
+        "aID": "40a",
+        "value": "R. K Singh"
+    },
+    {
+        "aID": "40b",
+        "value": "Piyush Goyal"
+    },
+    {
+        "aID": "40c",
+        "value": "Ashwini Baishnab"
+    },
+    {
+        "aID": "40d",
+        "value": "Dharmendra Pradhan"
+    },
+    {
+        "aID": "41a",
+        "value": "Singrauli"
+    },
+    {
+        "aID": "41b",
+        "value": "Korba"
+    },
+    {
+        "aID": "41c",
+        "value": "Vindhyachal"
+    },
+    {
+        "aID": "41d",
+        "value": "Ramagundam"
+    },
+    {
+        "aID": "42a",
+        "value": "Plant Life Factor"
+    },
+    {
+        "aID": "42b",
+        "value": "Plant Load Factor"
+    },
+    {
+        "aID": "42c",
+        "value": "Plant Layout Factor"
+    },
+    {
+        "aID": "42d",
+        "value": "Product Leverage Fund"
+    },
+    {
+        "aID": "43a",
+        "value": "Liquefied Nion Gas"
+    },
+    {
+        "aID": "43b",
+        "value": "Liquefied Nitrogen Gas"
+    },
+    {
+        "aID": "43c",
+        "value": "Liquefied Nitrate Gas"
+    },
+    {
+        "aID": "43d",
+        "value": "Liquefied Natural Gas"
+    },
+    {
+        "aID": "44a",
+        "value": "Gujarat"
+    },
+    {
+        "aID": "44b",
+        "value": "Punjab"
+    },
+    {
+        "aID": "44c",
+        "value": "Kerala"
+    },
+    {
+        "aID": "44d",
+        "value": "Bihar"
+    },
+    {
+        "aID": "45a",
+        "value": "Perform Achieve and Trade"
+    },
+    {
+        "aID": "45b",
+        "value": "Persistent Achievement and Transfer"
+    },
+    {
+        "aID": "45c",
+        "value": "Perfect Achievement and Tarde"
+    },
+    {
+        "aID": "45d",
+        "value": "None of the above"
+    },
+    {
+        "aID": "46a",
+        "value": "Bihar"
+    },
+    {
+        "aID": "46b",
+        "value": "Telengana"
+    },
+    {
+        "aID": "46c",
+        "value": "Odisha"
+    },
+    {
+        "aID": "46d",
+        "value": "Kerala"
+    },
+    {
+        "aID": "47a",
+        "value": "Tamil Nadu"
+    },
+    {
+        "aID": "47b",
+        "value": "Kolkata"
+    },
+    {
+        "aID": "47c",
+        "value": "Mumbai"
+    },
+    {
+        "aID": "47d",
+        "value": "Banglore"
+    },
+    {
+        "aID": "48a",
+        "value": "Tarapore"
+    },
+    {
+        "aID": "48b",
+        "value": "Kota"
+    },
+    {
+        "aID": "48c",
+        "value": "Kalpakkam"
+    },
+    {
+        "aID": "48d",
+        "value": "None of the above"
+    },
+    {
+        "aID": "49a",
+        "value": "Malaysia"
+    },
+    {
+        "aID": "49b",
+        "value": "Singapore"
+    },
+    {
+        "aID": "49c",
+        "value": "China"
+    },
+    {
+        "aID": "49d",
+        "value": "Rome"
+    },
+    {
+        "aID": "50a",
+        "value": "Gurdeep Singh"
+    },
+    {
+        "aID": "50b",
+        "value": "Bharat Chhabra"
+    },
+    {
+        "aID": "50c",
+        "value": "Raghubir Chowdhury"
+    },
+    {
+        "aID": "50d",
+        "value": "Gurnam Singh"
+    },
+    {
+        "aID": "51a",
+        "value": "NESCL"
+    },
+    {
+        "aID": "51b",
+        "value": "NVVN"
+    },
+    {
+        "aID": "51c",
+        "value": "NSPCL"
+    },
+    {
+        "aID": "51d",
+        "value": "NHL"
+    },
+    {
+        "aID": "52a",
+        "value": "Ship breaking"
+    },
+    {
+        "aID": "52b",
+        "value": "Milk"
+    },
+    {
+        "aID": "52c",
+        "value": "Automobile"
+    },
+    {
+        "aID": "52d",
+        "value": "Handloom"
+    },
+    {
+        "aID": "53a",
+        "value": "Manipur"
+    },
+    {
+        "aID": "53b",
+        "value": "Sikkim"
+    },
+    {
+        "aID": "53c",
+        "value": "Bihar"
+    },
+    {
+        "aID": "53d",
+        "value": "Orissa"
+    },
+    {
+        "aID": "54a",
+        "value": "Fairy Queen"
+    },
+    {
+        "aID": "54b",
+        "value": "Deccan Queen"
+    },
+    {
+        "aID": "54c",
+        "value": "Delux Queen"
+    },
+    {
+        "aID": "54d",
+        "value": "Legends of south"
+    },
+    {
+        "aID": "55a",
+        "value": "ONGC"
+    },
+    {
+        "aID": "55b",
+        "value": "IOC"
+    },
+    {
+        "aID": "55c",
+        "value": "NTPC"
+    },
+    {
+        "aID": "55d",
+        "value": "SAIL"
+    },
+    {
+        "aID": "56a",
+        "value": "76,254 MW"
+    },
+    {
+        "aID": "56b",
+        "value": "70,254 MW"
+    },
+    {
+        "aID": "56c",
+        "value": "80,254 MW"
+    },
+    {
+        "aID": "56d",
+        "value": "73,254 MW"
+    },
+    {
+        "aID": "57a",
+        "value": "7"
+    },
+    {
+        "aID": "57b",
+        "value": "8"
+    },
+    {
+        "aID": "57c",
+        "value": "9"
+    },
+    {
+        "aID": "57d",
+        "value": "10"
+    },
+    {
+        "aID": "58a",
+        "value": "West Bengal"
+    },
+    {
+        "aID": "58b",
+        "value": "Kerala"
+    },
+    {
+        "aID": "58c",
+        "value": "Odisha"
+    },
+    {
+        "aID": "58d",
+        "value": "Andhra Pradesh"
+    },
+    {
+        "aID": "59a",
+        "value": "Farakka"
+    },
+    {
+        "aID": "59b",
+        "value": "Vindhyanchal"
+    },
+    {
+        "aID": "59c",
+        "value": "Chennai"
+    },
+    {
+        "aID": "59d",
+        "value": "Kayamkulam"
+    },
+    {
+        "aID": "60a",
+        "value": "Delhi"
+    },
+    {
+        "aID": "60b",
+        "value": "Noida"
+    },
+    {
+        "aID": "60c",
+        "value": "Faridabad"
+    },
+    {
+        "aID": "60d",
+        "value": "Gurgaon"
+    },
+    {
+        "aID": "61a",
+        "value": "Jharkhand"
+    },
+    {
+        "aID": "61b",
+        "value": "Bihar"
+    },
+    {
+        "aID": "61c",
+        "value": "Karnataka"
+    },
+    {
+        "aID": "61d",
+        "value": "Uttarakhand"
+    },
+    {
+        "aID": "62a",
+        "value": "2004"
+    },
+    {
+        "aID": "62b",
+        "value": "2005"
+    },
+    {
+        "aID": "62c",
+        "value": "2008"
+    },
+    {
+        "aID": "62d",
+        "value": "2007"
+    },
+    {
+        "aID": "63a",
+        "value": "UK"
+    },
+    {
+        "aID": "63b",
+        "value": "Nepal"
+    },
+    {
+        "aID": "63c",
+        "value": "India"
+    },
+    {
+        "aID": "63d",
+        "value": "Sri Lanka"
+    },
+    {
+        "aID": "64a",
+        "value": "All coal mines of NTPC"
+    },
+    {
+        "aID": "64b",
+        "value": "All coal based projects of NTPC"
+    },
+    {
+        "aID": "64c",
+        "value": "All gas based projects of NTPC"
+    },
+    {
+        "aID": "64d",
+        "value": "None of the above"
+    },
+    {
+        "aID": "65a",
+        "value": "0.005"
+    },
+    {
+        "aID": "65b",
+        "value": "0.01"
+    },
+    {
+        "aID": "65c",
+        "value": "0.02"
+    },
+    {
+        "aID": "65d",
+        "value": "0.015"
+    },
+    {
+        "aID": "66a",
+        "value": "Ujala Scheme"
+    },
+    {
+        "aID": "66b",
+        "value": "Saubhagya Scheme"
+    },
+    {
+        "aID": "66c",
+        "value": "Bijli Scheme"
+    },
+    {
+        "aID": "66d",
+        "value": "Uday Scheme"
+    },
+    {
+        "aID": "67a",
+        "value": "BHEL"
+    },
+    {
+        "aID": "67b",
+        "value": "L&T"
+    },
+    {
+        "aID": "67c",
+        "value": "GE"
+    },
+    {
+        "aID": "67d",
+        "value": "siemens"
+    },
+    {
+        "aID": "68a",
+        "value": "Bihar"
+    },
+    {
+        "aID": "68b",
+        "value": "UP"
+    },
+    {
+        "aID": "68c",
+        "value": "AP"
+    },
+    {
+        "aID": "68d",
+        "value": "MP"
+    },
+    {
+        "aID": "69a",
+        "value": "Pune"
+    },
+    {
+        "aID": "69b",
+        "value": "Bhopal"
+    },
+    {
+        "aID": "69c",
+        "value": "Faridabad"
+    },
+    {
+        "aID": "69d",
+        "value": "Lucknow"
+    },
+    {
+        "aID": "70a",
+        "value": "Jammu and Kashmir"
+    },
+    {
+        "aID": "70b",
+        "value": "Madhya Pradesh"
+    },
+    {
+        "aID": "70c",
+        "value": "Bihar"
+    },
+    {
+        "aID": "70d",
+        "value": "Uttaer Pradesh"
+    },
+    {
+        "aID": "71a",
+        "value": "Hum Aapke Hain Kaun"
+    },
+    {
+        "aID": "71b",
+        "value": "Lagaan"
+    },
+    {
+        "aID": "71c",
+        "value": "Mosam"
+    },
+    {
+        "aID": "71d",
+        "value": "Jism"
+    },
+    {
+        "aID": "72a",
+        "value": "South Korea"
+    },
+    {
+        "aID": "72b",
+        "value": "Italy"
+    },
+    {
+        "aID": "72c",
+        "value": "North Korea"
+    },
+    {
+        "aID": "72d",
+        "value": "France"
+    },
+    {
+        "aID": "73a",
+        "value": "India Air Force"
+    },
+    {
+        "aID": "73b",
+        "value": "India Airlines"
+    },
+    {
+        "aID": "73c",
+        "value": "Jet Airways"
+    },
+    {
+        "aID": "73d",
+        "value": "Air India"
+    },
+    {
+        "aID": "74a",
+        "value": "Ayurveda"
+    },
+    {
+        "aID": "74b",
+        "value": "Yoga"
+    },
+    {
+        "aID": "74c",
+        "value": "Unani"
+    },
+    {
+        "aID": "74d",
+        "value": "Homoepathy"
+    },
+    {
+        "aID": "75a",
+        "value": "50"
+    },
+    {
+        "aID": "75b",
+        "value": "75"
+    },
+    {
+        "aID": "75c",
+        "value": "100"
+    },
+    {
+        "aID": "75d",
+        "value": "125"
+    },
+    {
+        "aID": "76a",
+        "value": "10"
+    },
+    {
+        "aID": "76b",
+        "value": "20"
+    },
+    {
+        "aID": "76c",
+        "value": "30"
+    },
+    {
+        "aID": "76d",
+        "value": "40"
+    },
+    {
+        "aID": "77a",
+        "value": "100"
+    },
+    {
+        "aID": "77b",
+        "value": "125"
+    },
+    {
+        "aID": "77c",
+        "value": "150"
+    },
+    {
+        "aID": "77d",
+        "value": "175"
+    },
+    {
+        "aID": "78a",
+        "value": "NTPC"
+    },
+    {
+        "aID": "78b",
+        "value": "SBI"
+    },
+    {
+        "aID": "78c",
+        "value": "BHEL"
+    },
+    {
+        "aID": "78d",
+        "value": "Coal India"
+    },
+    {
+        "aID": "79a",
+        "value": "Pranab Prakash Das"
+    },
+    {
+        "aID": "79b",
+        "value": "Pratap Keshri Deb"
+    },
+    {
+        "aID": "79c",
+        "value": "Atanu S. Nayak"
+    },
+    {
+        "aID": "79d",
+        "value": "Ashok Panda"
+    },
+    {
+        "aID": "80a",
+        "value": "Venus"
+    },
+    {
+        "aID": "80b",
+        "value": "Mars"
+    },
+    {
+        "aID": "80c",
+        "value": "Jupiter"
+    },
+    {
+        "aID": "80d",
+        "value": "Saturn"
+    },
+    {
+        "aID": "81a",
+        "value": "IRDA"
+    },
+    {
+        "aID": "81b",
+        "value": "EPFO"
+    },
+    {
+        "aID": "81c",
+        "value": "ESIC"
+    },
+    {
+        "aID": "81d",
+        "value": "CRA"
+    },
+    {
+        "aID": "82a",
+        "value": "Arsenic"
+    },
+    {
+        "aID": "82b",
+        "value": "Cadmium"
+    },
+    {
+        "aID": "82c",
+        "value": "Silicon"
+    },
+    {
+        "aID": "82d",
+        "value": "Steel"
     }
 ]

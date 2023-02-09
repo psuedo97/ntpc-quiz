@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import moment from "moment";
-import axios from "axios";
 
 const Registration = () => {
   const [name, setName] = useState("");
@@ -15,31 +14,20 @@ const Registration = () => {
       createdAt: moment().format("MMMM Do YYYY, h:mm:ss a"),
     };
     console.log("hello>>>>", userData);
-    updateJSONFile(userData);
-  };
-
-  const updateJSONFile = (newData) => {
-    fetch("data.json", {
+    fetch("http://localhost:3001/save/", {
+      method: "POST",
       headers: {
-        Accept: "application/json"
-      }
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        data.push(newData);
-        return data;
-      })
-      .then((updatedData) => {
-        return fetch("data.json", {
-          method: "PUT",
-          body: JSON.stringify(updatedData),
-        });
-      })
-      .catch((error) => {
-        console.error("Error updating JSON file:", error);
-      });
+        Accept: "application/json",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        name: name,
+        mobile: mobile,
+      }),
+    });
+    navigation("/quiz");
   };
-
+  
   return (
     <div className="landing-body">
       <div className="w-100 d-flex justify-content-center">
@@ -87,8 +75,8 @@ const Registration = () => {
                     type="button"
                     value={"Submit"}
                     onClick={() => {
-                      //handleSubmit();
-                      navigation("/quiz");
+                      handleSubmit();
+                      //navigation("/quiz");
                     }}
                   />
                 </div>
