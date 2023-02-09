@@ -1,0 +1,482 @@
+[
+    {
+        "aID": "1a",
+        "value": "Compact Fluorescent Lamp"
+    },
+    {
+        "aID": "1b",
+        "value": "Cluro Fluro Liquid"
+    },
+    {
+        "aID": "1c",
+        "value": "Compact Fluorescent Light"
+    },
+    {
+        "aID": "1d",
+        "value": "Compressed Fuel Link"
+    },
+    {
+        "aID": "2a",
+        "value": "Atom Bond"
+    },
+    {
+        "aID": "2b",
+        "value": "Atom Bomb"
+    },
+    {
+        "aID": "2c",
+        "value": "Nitrogen Gas"
+    },
+    {
+        "aID": "2d",
+        "value": "Malls"
+    },
+    {
+        "aID": "3a",
+        "value": "Hindi"
+    },
+    {
+        "aID": "3b",
+        "value": "Greek"
+    },
+    {
+        "aID": "3c",
+        "value": "Latin"
+    },
+    {
+        "aID": "3d",
+        "value": "Arabic"
+    },
+    {
+        "aID": "4a",
+        "value": "W.Roentgen"
+    },
+    {
+        "aID": "4b",
+        "value": "E.Rutherford"
+    },
+    {
+        "aID": "4c",
+        "value": "C.V Raman"
+    },
+    {
+        "aID": "4d",
+        "value": "Albert Einstein"
+    },
+    {
+        "aID": "5a",
+        "value": "William Gilbert"
+    },
+    {
+        "aID": "5b",
+        "value": "Rupert Dilbert"
+    },
+    {
+        "aID": "5c",
+        "value": "William Robert"
+    },
+    {
+        "aID": "5d",
+        "value": "William De Wills"
+    },
+    {
+        "aID": "6a",
+        "value": "E. Rutherford"
+    },
+    {
+        "aID": "6b",
+        "value": "Thomas Edison"
+    },
+    {
+        "aID": "6c",
+        "value": "Michael Faraday"
+    },
+    {
+        "aID": "6d",
+        "value": "John Tuck"
+    },
+    {
+        "aID": "7a",
+        "value": "Nikola Tesla"
+    },
+    {
+        "aID": "7b",
+        "value": "Thomas Edison"
+    },
+    {
+        "aID": "7c",
+        "value": "Michael Faraday"
+    },
+    {
+        "aID": "7d",
+        "value": "Thomas Cook"
+    },
+    {
+        "aID": "8a",
+        "value": "lignite."
+    },
+    {
+        "aID": "8b",
+        "value": "anthracite."
+    },
+    {
+        "aID": "8c",
+        "value": "bituminous."
+    },
+    {
+        "aID": "8d",
+        "value": "subbituminous."
+    },
+    {
+        "aID": "9a",
+        "value": "Goa"
+    },
+    {
+        "aID": "9b",
+        "value": "Punjab"
+    },
+    {
+        "aID": "9c",
+        "value": "Delhi"
+    },
+    {
+        "aID": "9d",
+        "value": "Bikaner"
+    },
+    {
+        "aID": "10a",
+        "value": "Darjeeling"
+    },
+    {
+        "aID": "10b",
+        "value": "Shimla"
+    },
+    {
+        "aID": "10c",
+        "value": "Kerala"
+    },
+    {
+        "aID": "10d",
+        "value": "Punjab"
+    },
+    {
+        "aID": "11a",
+        "value": "2nd July 1992"
+    },
+    {
+        "aID": "11b",
+        "value": "5th November 1990"
+    },
+    {
+        "aID": "11c",
+        "value": "2nd October 1993"
+    },
+    {
+        "aID": "11d",
+        "value": "8th January 1889"
+    },
+    {
+        "aID": "12a",
+        "value": "Ohms"
+    },
+    {
+        "aID": "12b",
+        "value": "Ampere (amp)"
+    },
+    {
+        "aID": "12c",
+        "value": "Joule"
+    },
+    {
+        "aID": "12d",
+        "value": "Watt"
+    },
+    {
+        "aID": "13a",
+        "value": "Air"
+    },
+    {
+        "aID": "13b",
+        "value": "Space"
+    },
+    {
+        "aID": "13c",
+        "value": "Wood"
+    },
+    {
+        "aID": "13d",
+        "value": "Saltwater"
+    },
+    {
+        "aID": "14a",
+        "value": "Thomas Edison"
+    },
+    {
+        "aID": "14b",
+        "value": "Benjamin Franklin"
+    },
+    {
+        "aID": "14c",
+        "value": "John Peter"
+    },
+    {
+        "aID": "14d",
+        "value": "Andre Ampere"
+    },
+    {
+        "aID": "15a",
+        "value": "Windy"
+    },
+    {
+        "aID": "15b",
+        "value": "Cloudy"
+    },
+    {
+        "aID": "15c",
+        "value": "Rainy"
+    },
+    {
+        "aID": "15d",
+        "value": "Clear"
+    },
+    {
+        "aID": "16a",
+        "value": "Leo Tolstoy"
+    },
+    {
+        "aID": "16b",
+        "value": "Aurobindo Ghosh"
+    },
+    {
+        "aID": "16c",
+        "value": "William Robert"
+    },
+    {
+        "aID": "16d",
+        "value": "Malcolm Gladwell"
+    },
+    {
+        "aID": "17a",
+        "value": "Albert Einstein"
+    },
+    {
+        "aID": "17b",
+        "value": "Gallelio"
+    },
+    {
+        "aID": "17c",
+        "value": "Gregor Mendel"
+    },
+    {
+        "aID": "17d",
+        "value": "Thomas Cook"
+    },
+    {
+        "aID": "18a",
+        "value": "Adjust the output Power"
+    },
+    {
+        "aID": "18b",
+        "value": "Generate Steam"
+    },
+    {
+        "aID": "18c",
+        "value": "Evaporate Steam"
+    },
+    {
+        "aID": "18d",
+        "value": "Drive turbine connected to a generator"
+    },
+    {
+        "aID": "19a",
+        "value": "Wires"
+    },
+    {
+        "aID": "19b",
+        "value": "Tankers"
+    },
+    {
+        "aID": "19c",
+        "value": "Transformers"
+    },
+    {
+        "aID": "19d",
+        "value": "Iron"
+    },
+    {
+        "aID": "20a",
+        "value": "Apple"
+    },
+    {
+        "aID": "20b",
+        "value": "Sony"
+    },
+    {
+        "aID": "20c",
+        "value": "Samsung"
+    },
+    {
+        "aID": "20d",
+        "value": "BOSE"
+    },
+    {
+        "aID": "21a",
+        "value": "Coal"
+    },
+    {
+        "aID": "21b",
+        "value": "Oil"
+    },
+    {
+        "aID": "21c",
+        "value": "Natural gas"
+    },
+    {
+        "aID": "21d",
+        "value": "All of the above"
+    },
+    {
+        "aID": "22a",
+        "value": "Appu Ghar"
+    },
+    {
+        "aID": "22b",
+        "value": "Essel World"
+    },
+    {
+        "aID": "22c",
+        "value": "Greate India"
+    },
+    {
+        "aID": "22d",
+        "value": "No Escape"
+    },
+    {
+        "aID": "23a",
+        "value": "Ambedkar Stadium"
+    },
+    {
+        "aID": "23b",
+        "value": "JLN Stadium"
+    },
+    {
+        "aID": "23c",
+        "value": "National Stadium"
+    },
+    {
+        "aID": "23d",
+        "value": "Vankde Stadium"
+    },
+    {
+        "aID": "24a",
+        "value": "Wind"
+    },
+    {
+        "aID": "24b",
+        "value": "Coal"
+    },
+    {
+        "aID": "24c",
+        "value": "Thermal"
+    },
+    {
+        "aID": "24d",
+        "value": "Uranium"
+    },
+    {
+        "aID": "25a",
+        "value": "0.2 to 0.4 microns"
+    },
+    {
+        "aID": "25b",
+        "value": "0.38 to 0.78 microns"
+    },
+    {
+        "aID": "25c",
+        "value": "0 to 0.38 microns"
+    },
+    {
+        "aID": "25d",
+        "value": "0.5 to 0.8 microns"
+    },
+    {
+        "aID": "26a",
+        "value": "Silicon dioxide"
+    },
+    {
+        "aID": "26b",
+        "value": "Aluminium oxide"
+    },
+    {
+        "aID": "26c",
+        "value": "Calcium oxide"
+    },
+    {
+        "aID": "26d",
+        "value": "Magnesium oxide"
+    },
+    {
+        "aID": "27a",
+        "value": "Not usable"
+    },
+    {
+        "aID": "27b",
+        "value": "Renewable"
+    },
+    {
+        "aID": "27c",
+        "value": "Non-renewable"
+    },
+    {
+        "aID": "27d",
+        "value": "Environmentally friendly"
+    },
+    {
+        "aID": "28a",
+        "value": "Odisha"
+    },
+    {
+        "aID": "28b",
+        "value": "West Bengal"
+    },
+    {
+        "aID": "28c",
+        "value": "Assam"
+    },
+    {
+        "aID": "28d",
+        "value": "Bihar"
+    },
+    {
+        "aID": "29a",
+        "value": "Uttarakhand"
+    },
+    {
+        "aID": "29b",
+        "value": "Himachal Pradesh"
+    },
+    {
+        "aID": "29c",
+        "value": "Sikkim"
+    },
+    {
+        "aID": "29d",
+        "value": "Manipal"
+    },
+    {
+        "aID": "30a",
+        "value": "Al Gore"
+    },
+    {
+        "aID": "30b",
+        "value": "George Bush"
+    },
+    {
+        "aID": "30c",
+        "value": "Barack Obama"
+    },
+    {
+        "aID": "30d",
+        "value": "Bill Clinton"
+    }
+]

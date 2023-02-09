@@ -1,0 +1,165 @@
+.landing-body {
+  background-image: url("../assets/bg-2.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  z-index: -2;
+}
+.btn-nav {
+  background-color: #214634 !important;
+  font-size: 2vw !important;
+  font-weight: 600 !important;
+}
+.welcome-bg {
+  width: 75vw;
+  border: 5px solid #f7f596;
+  border-radius: 3vw;
+  height: 64vh;
+  margin-top: 5vh;
+}
+.bg-welcome {
+  /* z-index: -1; */
+  background-color: #f9f6cb;
+  height: 100%;
+  border-radius: 3vw;
+  opacity: 0.4;
+}
+.content {
+  z-index: 1;
+}
+.content h2,
+h4 {
+  color: #214634;
+}
+.content h2 {
+  font-size: 5vw;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+.content h4 {
+  font-size: 3vw;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+.blank-div {
+  height: 0;
+}
+.heading {
+  margin-bottom: 3vw;
+}
+.heading h4 {
+  font-size: 3vw;
+}
+.form-data {
+  margin: 0 3vw;
+}
+.form-data p {
+  font-size: 1.15vw;
+}
+.inputClass {
+  background-color: transparent !important;
+  border-color: #3e3e3e !important;
+  font-size: 1.15vw !important;
+}
+.rules p {
+  margin-bottom: 0;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.btn-submit {
+  font-weight: 600 !important;
+  font-size: 1vw !important;
+  height: 100%;
+}
+.color-green {
+  color: #214634;
+  font-weight: 600;
+}
+.height-100 {
+  height: 100vh;
+}
+.question p {
+  font-size: 2vw;
+  font-weight: 800;
+}
+.optionImg {
+  width: 28vw;
+  z-index: -1;
+}
+.optionImg:hover {
+  transform: rotate(2deg);
+}
+.content-quiz {
+  margin-top: 7vw;
+}
+.top {
+  margin-top: 3vw !important;
+  margin-bottom: 3vw;
+}
+.optionA {
+  color: #214634;
+  font-size: 1.5vw;
+  font-weight: 800;
+  position: absolute;
+  left: 26vw;
+  top: 15.5vw;
+  margin-bottom: 0;
+  width: 100%;
+}
+.optionB {
+  color: #214634;
+  font-size: 1.5vw;
+  font-weight: 800;
+  position: absolute;
+  left: 55vw;
+  top: 15.5vw;
+  width: 100%;
+  margin-bottom: 0;
+}
+.optionC {
+  color: #214634;
+  font-size: 1.5vw;
+  font-weight: 800;
+  position: absolute;
+  left: 26vw;
+  width: 100%;
+  top: 24.5vw;
+  margin-bottom: 0;
+}
+.optionD {
+  color: #214634;
+  font-size: 1.5vw;
+  font-weight: 800;
+  position: absolute;
+  left: 55vw;
+  top: 24.5vw;
+  margin-bottom: 0;
+  width: 100%;
+}
+.smileLogo{
+  width: 12vw;
+}
+.responseDiv{
+  margin: 2.5vw 0 2vw 0;
+}
+.responseDiv p{
+  color: red;
+  font-size: 2.5vw;
+  font-weight: 800;
+}
+.thankyou p{
+  color: #214634;
+  font-size: 2vw;
+  font-weight: 800;
+}
+.btn-home{
+  width: 8vw;
+  background-color: #214634 !important;
+  color: white !important;
+  font-size: 1.5vw !important;
+  font-weight: 600 !important;
+}
