@@ -1,18 +1,24 @@
-import React, { useState } from "react";
+import React, { useRef, useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import moment from "moment";
+import KeyboardReact from "react-simple-keyboard";
+import "react-simple-keyboard/build/css/index.css";
 
 const Registration = () => {
-  const [name, setName] = useState("");
-  const [mobile, setMobile] = useState("");
+  const [inputs, setInputs] = useState({});
+  const [layoutName, setLayoutName] = useState("default");
   const navigation = useNavigate();
-
+  const [layout, setLayout] = useState("default");
+  const keyboard = useRef();
+  const [inputName, setInputName] = useState("default");
+  const [keyboardVisibility, setKeyboardVisibility] = useState(false);
   const handleSubmit = () => {
+    console.log("Hello>>>>",inputs.Mobile)
     var checkNumber = /^\d{10}$/;
-    if (checkNumber.test(mobile)) {
+    if (checkNumber.test(parseInt(inputs.Mobile))) {
       const userData = {
-        name: name,
-        number: mobile,
+        name: inputs.Name,
+        number: inputs.Mobile,
         createdAt: moment().format("MMMM Do YYYY, h:mm:ss a"),
       };
       console.log("hello>>>>", userData);
@@ -23,8 +29,8 @@ const Registration = () => {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          name: name,
-          mobile: mobile,
+          name: inputs.Name,
+          mobile: inputs.Mobile,
         }),
       });
       navigation("/quiz");
@@ -32,6 +38,52 @@ const Registration = () => {
       alert("Enter Valid mobile number");
     }
   };
+
+  const onChangeAll = (inputs) => {
+    console.log("Inputs changed", inputs);
+    setInputs(inputs);
+  };
+
+  const handleShift = () => {
+    const newLayoutName = layout === "default" ? "shift" : "default";
+    setLayout(newLayoutName);
+  };
+
+  const onKeyPress = (button) => {
+    console.log("Button pressed", button);
+    if (button === "{shift}" || button === "{lock}") handleShift();
+  };
+  const onChangeInput = (event) => {
+    const inputVal = event.target.value;
+
+    setInputs({
+      ...inputs,
+      [inputName]: inputVal,
+    });
+
+    keyboard.current.setInput(inputVal);
+  };
+  const getInputValue = (inputName) => {
+    return inputs[inputName] || "";
+  };
+
+  useEffect(() => {
+    console.log("inputsss", inputs);
+  }, [inputs]);
+  useEffect(() => {
+    function clickHanlder(e) {
+      if (
+        !(e.target.nodeName === "INPUT") &&
+        !e.target.classList.contains("hg-button") &&
+        !e.target.classList.contains("hg-row")
+      ) {
+        setKeyboardVisibility(false);
+      }
+    }
+
+    window.addEventListener("click", clickHanlder);
+    return window.removeEventListener("click", clickHanlder, true);
+  }, []);
 
   return (
     <div className="landing-body">
@@ -50,11 +102,24 @@ const Registration = () => {
                     </div>
                     <div className="col-8">
                       <input
+                        className="IInput inputClass form-control"
+                        type="text"
+                        value={getInputValue("Name")}
+                        onChange={onChangeInput}
+                        onFocus={() => {
+                          setKeyboardVisibility(true);
+                          setInputName("Name");
+                        }}
+                      />
+                      {/* <input
                         className="inputClass form-control"
                         type="text"
-                        value={name}
-                        onChange={(e) => setName(e.target.value)}
-                      />
+                        // value={name}
+                        // onChange={(e) => setName(e.target.value)}
+                        value={input}
+                        onChange={onChangeInput}
+                        onFocus={!isVisible && setIsVisible(true)}
+                      /> */}
                     </div>
                   </div>
                 </div>
@@ -65,12 +130,15 @@ const Registration = () => {
                     </div>
                     <div className="col-8">
                       <input
-                        className="form-control inputClass"
-                        type="number"
-                        pattern="[0-9]{10}"
-                        value={mobile}
-                        onChange={(e) => setMobile(e.target.value)}
-                        required
+                        className="IIinput form-control inputClass"
+                        type="numnber"
+                        name="Mobile"
+                        value={getInputValue("Mobile")}
+                        onChange={onChangeInput}
+                        onFocus={() => {
+                          setKeyboardVisibility(true);
+                          setInputName("Mobile");
+                        }}
                       />
                     </div>
                   </div>
@@ -88,6 +156,17 @@ const Registration = () => {
                 </div>
               </div>
               <hr />
+
+              {keyboardVisibility && (
+                <KeyboardReact
+                  keyboardRef={(r) => (keyboard.current = r)}
+                  layoutName={layoutName}
+                  onChangeAll={onChangeAll}
+                  onKeyPress={onKeyPress}
+                  inputName={inputName}
+                />
+              )}
+
               <div className="rules">
                 <p className="text-uppercase mb-2 color-green">
                   rules and regulations
