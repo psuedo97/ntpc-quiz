@@ -173,7 +173,7 @@ const Quiz = (props) => {
             <GoHome className="home-btn" />{" "}
             <span className="home-text">&nbsp;Home</span>
           </div>
-          <div className="question" style={{ height: '150px'}}>
+          <div className="question" style={{ height: '60px'}}>
             <p className="color-green text-center">{ques}</p>
           </div>
           <div className="answer">
