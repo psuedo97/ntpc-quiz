@@ -56,7 +56,7 @@ const Quiz = (props) => {
     }
 
     if (page < 10) {
-      await delay(500);
+      await delay(1000);
       setPage(page + 1);
     }
   };
@@ -70,7 +70,7 @@ const Quiz = (props) => {
 
   useEffect(() => {
     if (count === 0) {
-      var list = quizData(data, 10);
+      var list = quizData(data,5);
       console.log(list);
       setData(list);
       var qId = list[page].qId;
@@ -108,7 +108,7 @@ const Quiz = (props) => {
         }
       });
       setCount(count + 1);
-    } else if (count > 0 && page < 10) {
+    } else if (count > 0 && page < 5) {
       setA(topLeft);
       setB(topRight);
       setC(bottomleft);
@@ -163,7 +163,7 @@ const Quiz = (props) => {
     setCount(0);
   };
   return (
-    <div className="landing-body">
+    <div className="landing-body-quiz">
       <div className="w-100 height-100 d-flex justify-content-center">
         <div className="content-quiz">
           <div

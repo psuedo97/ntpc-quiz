@@ -14,7 +14,7 @@ const LandingPage = () => {
             <div className="row mb-4">
               <h2>Welcome</h2>
               <h4>to the</h4>
-              <h2>Power Quiz</h2>
+              <h2>Sukrut Quiz</h2>
             </div>
             <div className="row d-flex align-items-center px-4">
               <div className="col-1"></div>
@@ -24,7 +24,7 @@ const LandingPage = () => {
                   type="button"
                   className="btn btn-success w-100 btn-nav text-uppercase"
                   value="Enter"
-                  onClick={()=>navigate('/registration')}
+                  onClick={()=>navigate('/quiz')}
                 />
                 {/* <img className="logo w-100 mt-3" src={ntpc}/> */}
               </div>
@@ -39,3 +39,10 @@ const LandingPage = () => {
 };
 
 export default LandingPage;
+
+
+// {
+//   "qId" : 14,
+//   "aId" : ["14a","14b","14c","14d"],
+//   "answerId" : "14a"
+// },

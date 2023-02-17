@@ -9,6 +9,15 @@ body {
   background-position: bottom;
   z-index: -2;
 }
+.landing-body-quiz {
+  background-image: url("../assets/bg-4.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  z-index: -2;
+}
+
 .btn-nav {
   background-color: #214634 !important;
   font-size: 2vw !important;
@@ -105,40 +114,40 @@ input::-webkit-inner-spin-button {
 }
 .optionA {
   color: #214634;
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   font-weight: 800;
   position: absolute;
-  left: 26vw;
+  left: 25vw;
   top: 15.5vw;
   margin-bottom: 0;
   width: 100%;
 }
 .optionB {
   color: #214634;
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   font-weight: 800;
   position: absolute;
-  left: 55vw;
+  left: 53vw;
   top: 15.5vw;
   width: 100%;
   margin-bottom: 0;
 }
 .optionC {
   color: #214634;
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   font-weight: 800;
   position: absolute;
-  left: 26vw;
+  left: 25vw;
   width: 100%;
   top: 24.5vw;
   margin-bottom: 0;
 }
 .optionD {
   color: #214634;
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   font-weight: 800;
   position: absolute;
-  left: 55vw;
+  left: 53vw;
   top: 24.5vw;
   margin-bottom: 0;
   width: 100%;

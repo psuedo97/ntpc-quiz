@@ -1,330 +1,150 @@
 [
     {
         "qId": 1,
-        "value": "CFL stands for?"
+        "value": "What is the inclination at which the Buchholz Relay is mounted between a Transformer and conservator?"
     },
     {
         "qId": 2,
-        "value": "In 1942, US started the Manhattan project to develop"
+        "value": "Which product is used to detect the level of oil in the conservator?"
     },
     {
         "qId": 3,
-        "value": "The word electricity is derived from which language ?"
+        "value": "Which of the following product require to collect gas from BR"
     },
     {
         "qId": 4,
-        "value": "Who received the Nobel Prize in 1921 for discovering the law of Photoelectric effect"
+        "value": "Which of the following product is connected between Transformer Main Tank & Conservator Tank"
     },
     {
         "qId": 5,
-        "value": "The first published work on the phenomenon of electricity around the 16th century was by:"
+        "value": "Conservator Protection Relay is also known as_________? "
     },
     {
         "qId": 6,
-        "value": "Who demonstrated the principle of electro magnetic induction?"
+        "value": "In Oil level Indicator, float arm length is decided by which parameter"
     },
     {
         "qId": 7,
-        "value": "The principle of AC (Alternating Current) electric supply system was given by:"
+        "value": "Which switch is used in Buchholz Relay?"
     },
     {
         "qId": 8,
-        "value": "The best type of coal in terms of purity is:"
+        "value": "What type of current should be used in Transformer?"
     },
     {
         "qId": 9,
-        "value": "The first Indian princely state to have introduced electricity was?"
+        "value": "Power factor of transformer is ______ ?"
     },
     {
         "qId": 10,
-        "value": "The first hydro power station in India was at:"
+        "value": "What is the correct method to Cool down the Transformer?"
     },
     {
         "qId": 11,
-        "value": "The Ministry of Power became an independently run unit from:"
+        "value": "Buchholz Relay Cannot Be Used on __________ ?"
     },
     {
         "qId": 12,
-        "value": "Which one of these is not a unit to measure electric current / Electricity?"
+        "value": "Transformer works on Principle of"
     },
     {
         "qId": 13,
-        "value": "Which of these would be the best conductor of electricity?"
+        "value": "Which winding in a transformer has more number of turns?"
     },
     {
         "qId": 14,
-        "value": "Which of these would be the found electricity?"
+        "value": "A Magnetic Oil level Gauge (MOG) is used in Transformer to"
     },
     {
         "qId": 15,
-        "value": "Solar Power Plants operate best when the weather is"
+        "value": "When was SUKRUT Founded?"
     },
     {
         "qId": 16,
-        "value": "Who is the author of the classic novel 'War and Peace'?"
+        "value": "Where is SUKRUT Located in India?"
     },
     {
         "qId": 17,
-        "value": "In 1866,which Austrian monk established the theory of heredity"
+        "value": "Conservator Protection Relay Monitors the health of_______?"
     },
     {
         "qId": 18,
-        "value": "In Hydroelectric plants water is used to"
+        "value": "Flow indicator Detects________?"
     },
     {
         "qId": 19,
-        "value": "Electricity is not transported by"
+        "value": "What is the new tagline of Sukrut ?"
     },
     {
         "qId": 20,
-        "value": "Which company has launched the iPhones"
+        "value": "Which was the 1st Product introduced by Sukrut ?"
     },
     {
         "qId": 21,
-        "value": "'Fossil fuels' refers to:"
+        "value": "Which new product SUKRUT is going to Launch in 2023?"
     },
     {
         "qId": 22,
-        "value": "Which is Indias first amusement park, launched in 1984"
+        "value": "In a Step-Up Transformer, the value of current in the secondary coil in comparison to primary coil is ______"
     },
     {
         "qId": 23,
-        "value": "How is the Irwin Stadium in Delhi now known as?"
+        "value": "Which of the following remains constant in an ideal Step-Down Transformer?"
     },
     {
         "qId": 24,
-        "value": "Which one of these energy sources is renewable"
+        "value": "What is the Ideal mounting condition of Pressure Relief Valve?"
     },
     {
         "qId":25,
-        "value": "Most of the solar radiation received on earth surface lies within the range of........"
+        "value": "What is the ideal Mounting Inclination Angle of Buchholz Relay ?"
     },
     {
         "qId":26,
-        "value": "The major constituent of fly ash is"
+        "value": "Oil Level Indicator can be mounted at an Inclination __________"
     },
     {
         "qId":27,
-        "value": "Nuclear fuel is:"
+        "value": "_________ device is used to collect gas sample from Buchholz Relay"
     },
     {
         "qId":28,
-        "value": "Chhena Poda is native to which State"
+        "value": "Flow indicator indicates________?"
     },
     {
         "qId":29,
-        "value": "The first Hydro Electric project of NTPC-Koldam project is located at which state"
+        "value": "The _________ is a safety device which indicates the flow of liquid in pipeline and gives a signal through switch on failure of forced circulation of liquid in pipeline."
     },
     {
         "qId":30,
-        "value": "Which of the following  persons received a Nobel Prize as well as an Oscar award ?"
+        "value": "The _________ is used to release the excessive pressure generated inside the Transformer Tank."
     },
     {
         "qId":31,
-        "value": "With an installed capacity of 260 MW, the largest solar project of NTPC is located at which state"
+        "value": "The __________ is the commonly used material for Bushing insulators."
     },
     {
         "qId":32,
-        "value": "Naveen Patnaik is the Chief Minister of which state"
+        "value": "Which of the following acts as a protection against high voltage surges due to lightening and switching?"
     },
     {
         "qId":33,
-        "value": "NTPC was incorporated in the year"
+        "value": "The _______________allows an easy connection between external and internal measuring circuit of transformer tank."
     },
     {
         "qId":34,
-        "value": "Dreaming Big is a book written by"
+        "value": "What is the Purpose of 4th Petcock in Gas Collecting Device?"
     },
     {
         "qId":35,
-        "value": "Prime Minister of India recently dedicated the Dulanga Coal Mine to the nation  In which state is it located"
+        "value": "What is the shape of Flow Indicator dial."
     },
     {
         "qId":36,
-        "value": "In NTPC, ICOMIT refers to what"
+        "value": "What is the Dial Size of Oil Level Indicator SO-6-M Model ?"
     },
     {
         "qId":37,
-        "value": "Bio-mass co-firing pilot testing has been done at which project of NTPC to address the issue of smog in northern part of India during winter season"
-    },
-    {
-        "qId":38,
-        "value": "India's first 765 kV switchyard was energized at:"
-    },
-    {
-        "qId":39,
-        "value": "Which is the company producing maximum generating power in India"
-    },
-    {
-        "qId":40,
-        "value": "Who is the Minister of Power and New & Renewable Energy of India"
-    },
-    {
-        "qId":41,
-        "value": "With an installed capacity of 4760 MW, the largest power project of India is located at which NTPC location"
-    },
-    {
-        "qId":42,
-        "value": "PLF stands for ?"
-    },
-    {
-        "qId":43,
-        "value": "LNG stands for?"
-    },
-    {
-        "qId":44,
-        "value": "Sardar Sarovar Project is operating in which State?"
-    },
-    {
-        "qId":45,
-        "value": "NTPC is implementing PAT Scheme under National Mission on Enhanced Energy Efficiency in 22 Power Stations. What does PAT stand for"
-    },
-    {
-        "qId":46,
-        "value": "Worlds' longest earthen dam situated in which state"
-    },
-    {
-        "qId":47,
-        "value": "The first Rajdhani express in 1969 connected which state capital to Delhi."
-    },
-    {
-        "qId":48,
-        "value": "India’s first nuclear power plant was installed at"
-    },
-    {
-        "qId":49,
-        "value": "In which country would you be if you were at the Genting City of Entertainment?"
-    },
-    {
-        "qId":50,
-        "value": "Name the current CMD of NTPC"
-    },
-    {
-        "qId":51,
-        "value": "Which wholly owned subsidiary of NTPC has been designated as nodal agency for cross-border trading of power to Bangladesh, Nepal and Bhutan"
-    },
-    {
-        "qId":52,
-        "value": "Alang in the state of Gujarat is famous for which industry"
-    },
-    {
-        "qId":53,
-        "value": "Which state in India has no Railway line?"
-    },
-    {
-        "qId":54,
-        "value": "What is the name of the Worlds oldest working steam locomotive?"
-    },
-    {
-        "qId":55,
-        "value": "Which is the first PSU in the country to have a dedicated Biodiversity Policy for conservation, restoration and enhancement of biodiversity"
-    },
-    {
-        "qId":56,
-        "value": "Present installed capacity of NTPC Group is"
-    },
-    {
-        "qId":57,
-        "value": "After November 2019, how many Union territories are there in India?"
-    },
-    {
-        "qId":58,
-        "value": "Shree Jagannath Temple of Puri is situated in which state"
-    },
-    {
-        "qId":59,
-        "value": "India's biggest power generating company is located at"
-    },
-    {
-        "qId":60,
-        "value": "The NTPC School of Business for running PG Diploma in Management approved by AICTE is located at"
-    },
-    {
-        "qId":61,
-        "value": "The first Coal mining block, Pakri Barwadih allocated to NTPC is located in the state of"
-    },
-    {
-        "qId":62,
-        "value": "NTPCs Initial Public Offer(IPO)  was issued during which year"
-    },
-    {
-        "qId":63,
-        "value": "NTPCs first power project abroad is being put-up in which country"
-    },
-    {
-        "qId":64,
-        "value": "What links Pakri Barwadih, Chatti Bariatu, Kerendari, Dulanga,Talaipalli and Chatti-Bariatu(South)"
-    },
-    {
-        "qId":65,
-        "value": "NTPC allocates what percentage of distributable profit annually for undertaking\/sponsoring research leading to sustainable energy development"
-    },
-    {
-        "qId":66,
-        "value": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana is a scheme to achieve universal household electrification in the country. How is this scheme popularly known as"
-    },
-    {
-        "qId":67,
-        "value": "A 50:50 JV company between NTPC and Bangladesh Power Development Board is currently working on 2 x 660 MW thermal power project at Khulna, Bangladesh. Which company is executing this project as an EPC agency"
-    },
-    {
-        "qId":68,
-        "value": "In which state in India is NTPC putting-up a 500 MW Coal based project in association with Railways"
-    },
-    {
-        "qId":69,
-        "value": "The headquarters of the National Power Training institute is located in"
-    },
-    {
-        "qId":70,
-        "value": "In which Indian state is Dogri widely spoken"
-    },
-    {
-        "qId":71,
-        "value": "According to painter Late M. F Hussain, he has seen one Hindi film 100 times. Which film"
-    },
-    {
-        "qId":72,
-        "value": "If the President of the USA stays in the White House, which country's President stays in the Blue House?"
-    },
-    {
-        "qId":73,
-        "value": "Which organisation's motto is  Touch the sky with glory ?"
-    },
-    {
-        "qId":74,
-        "value": "This ancient Asian tradition is booming worldwide. 15 million Americans are doing it- in part because people believe it has real medicinal benefits. Time magazine reported like this in the July 16,2001 issue. What tradition were they reporting?"
-    },
-    {
-        "qId":75,
-        "value": "The Prime Minister of India has  launched the National LED based Home lighting and Street lighting scheme for how many cities"
-    },
-    {
-        "qId":76,
-        "value": "A LED bulb uses about how much percentage of electricity required for an incandescent bulb to produce the same amount of light"
-    },
-    {
-        "qId":77,
-        "value": "India's ambitious renewable energy target is to set up how many Gigawatts by 2022"
-    },
-    {
-        "qId":78,
-        "value": "Which company is the biggest listed employer of India"
-    },
-    {
-        "qId":79,
-        "value": "Energy Minister of Odisha State"
-    },
-    {
-        "qId":80,
-        "value": "The Mangalyaan mission launched by ISRO was to study which planet"
-    },
-    {
-        "qId":81,
-        "value": "Which organization has allowed to obtain universal account number online in India?"
-    },
-    {
-        "qId":82,
-        "value": "Most widely used solar material is........"
+        "value": "__________ is a hollow electrical insulator that allows an electrical conductor to pass safely through a conducting barrier."
     }
 ]

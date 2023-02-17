@@ -1,335 +1,346 @@
 [
     {
+
+
         "aID": "1a",
-        "value": "Compact Fluorescent Lamp"
+        "value": "Vertical (0 deg)"
     },
     {
         "aID": "1b",
-        "value": "Cluro Fluro Liquid"
+        "value": "3 to 5 deg"
     },
     {
         "aID": "1c",
-        "value": "Compact Fluorescent Light"
+        "value": "Horizontal (90deg)"
     },
     {
         "aID": "1d",
-        "value": "Compressed Fuel Link"
+        "value": "25 to 30 deg"
     },
     {
         "aID": "2a",
-        "value": "Atom Bond"
+        "value": "Flow Indicator"
     },
     {
         "aID": "2b",
-        "value": "Atom Bomb"
+        "value": " Conservator protection relay"
     },
     {
         "aID": "2c",
-        "value": "Nitrogen Gas"
+        "value": "Oil Level Indicator"
     },
     {
         "aID": "2d",
-        "value": "Malls"
+        "value": "None of the above"
     },
     {
+
+        		
+
         "aID": "3a",
-        "value": "Hindi"
+        "value": "Flow Indicator"
     },
     {
         "aID": "3b",
-        "value": "Greek"
+        "value": "Conservator protection relay"
     },
     {
         "aID": "3c",
-        "value": "Latin"
+        "value": "Oil Level Indicator"
     },
     {
         "aID": "3d",
-        "value": "Arabic"
+        "value": "Gas Collecting Device"
     },
-    {
+    { 
         "aID": "4a",
-        "value": "W.Roentgen"
+        "value": "Buchholz Relay"
     },
     {
         "aID": "4b",
-        "value": "E.Rutherford"
+        "value": "Conservator Protection Relay"
     },
     {
         "aID": "4c",
-        "value": "C.V Raman"
+        "value": "Gas Collecting Device"
     },
     {
         "aID": "4d",
-        "value": "Albert Einstein"
+        "value": "Flow Indicator"
     },
     {
         "aID": "5a",
-        "value": "William Gilbert"
+        "value": "Buchholz Relay"
     },
     {
         "aID": "5b",
-        "value": "Rupert Dilbert"
+        "value": "Conservator Rupture Relay "
     },
     {
         "aID": "5c",
-        "value": "William Robert"
+        "value": "Aircell Rupture Relay"
     },
     {
         "aID": "5d",
-        "value": "William De Wills"
+        "value": "Flow Indicator"
     },
     {
         "aID": "6a",
-        "value": "E. Rutherford"
+        "value": "Length & Diameter of Conservator"
     },
     {
         "aID": "6b",
-        "value": "Thomas Edison"
+        "value": " Length of Conservator"
     },
     {
         "aID": "6c",
-        "value": "Michael Faraday"
+        "value": "Diameter of Conservator"
     },
     {
         "aID": "6d",
-        "value": "John Tuck"
+        "value": "Width of conservator"
     },
     {
+
         "aID": "7a",
-        "value": "Nikola Tesla"
+        "value": " Magnetic Reed Switch"
     },
     {
         "aID": "7b",
-        "value": "Thomas Edison"
+        "value": "Micro Switch"
     },
     {
         "aID": "7c",
-        "value": "Michael Faraday"
+        "value": "Mercury Switch"
     },
     {
         "aID": "7d",
-        "value": "Thomas Cook"
+        "value": " All Options are correct"
     },
     {
+
         "aID": "8a",
-        "value": "lignite."
+        "value": "A.C"
     },
     {
         "aID": "8b",
-        "value": "anthracite."
+        "value": "D.C"
     },
     {
         "aID": "8c",
-        "value": "bituminous."
+        "value": "A.C & D.C"
     },
     {
         "aID": "8d",
-        "value": "subbituminous."
+        "value": "Any Other"
     },
     {
         "aID": "9a",
-        "value": "Goa"
+        "value": "0"
     },
     {
         "aID": "9b",
-        "value": "Punjab"
+        "value": "1"
     },
     {
         "aID": "9c",
-        "value": "Delhi"
+        "value": "2"
     },
     {
         "aID": "9d",
-        "value": "Bikaner"
+        "value": "3"
     },
     {
+
         "aID": "10a",
-        "value": "Darjeeling"
+        "value": "Oil Natural Air Forced"
     },
     {
         "aID": "10b",
-        "value": "Shimla"
+        "value": "Air Natural"
     },
     {
         "aID": "10c",
-        "value": "Kerala"
+        "value": "Air Natural Water Forced"
     },
     {
         "aID": "10d",
-        "value": "Punjab"
+        "value": "All Options are Correct"
     },
-    {
+    {  
         "aID": "11a",
-        "value": "2nd July 1992"
+        "value": "Air Cooled Transformer"
     },
     {
         "aID": "11b",
-        "value": "5th November 1990"
+        "value": "500 kVA Transformer"
     },
     {
         "aID": "11c",
-        "value": "2nd October 1993"
+        "value": "1000 kVA Transformer"
     },
     {
         "aID": "11d",
-        "value": "8th January 1889"
+        "value": "Oil Cooled Transformer"
     },
     {
+
         "aID": "12a",
-        "value": "Ohms"
+        "value": " Mutual Induction"
     },
     {
         "aID": "12b",
-        "value": "Ampere (amp)"
+        "value": "Self Induction"
     },
     {
         "aID": "12c",
-        "value": "Joule"
+        "value": "Fleming's Rule"
     },
     {
         "aID": "12d",
-        "value": "Watt"
+        "value": "Kirchhoff's Rule "
     },
     {
         "aID": "13a",
-        "value": "Air"
+        "value": "Primary"
     },
     {
         "aID": "13b",
-        "value": "Space"
+        "value": "Secondary"
     },
     {
         "aID": "13c",
-        "value": "Wood"
+        "value": "High Voltage"
     },
     {
         "aID": "13d",
-        "value": "Saltwater"
+        "value": "Low Voltage"
     },
     {
+
         "aID": "14a",
-        "value": "Thomas Edison"
+        "value": "Indicates the position of transformer insulating oil level in the conservator tank."
     },
     {
         "aID": "14b",
-        "value": "Benjamin Franklin"
+        "value": "Detects an internal fault in the transformer."
     },
     {
         "aID": "14c",
-        "value": "John Peter"
+        "value": "Trip the transformer during abnormal condition"
     },
     {
         "aID": "14d",
-        "value": "Andre Ampere"
+        "value": "None of the above"
     },
     {
         "aID": "15a",
-        "value": "Windy"
+        "value": "1967"
     },
     {
         "aID": "15b",
-        "value": "Cloudy"
+        "value": "1999"
     },
     {
         "aID": "15c",
-        "value": "Rainy"
+        "value": "2004"
     },
     {
         "aID": "15d",
-        "value": "Clear"
+        "value": "2010"
     },
     {
         "aID": "16a",
-        "value": "Leo Tolstoy"
+        "value": "Bangalore"
     },
     {
         "aID": "16b",
-        "value": "Aurobindo Ghosh"
+        "value": "Pune"
     },
     {
         "aID": "16c",
-        "value": "William Robert"
+        "value": "Delhi"
     },
     {
         "aID": "16d",
-        "value": "Malcolm Gladwell"
+        "value": "Haryana"
     },
     {
+
         "aID": "17a",
-        "value": "Albert Einstein"
+        "value": "Transformer"
     },
     {
         "aID": "17b",
-        "value": "Gallelio"
+        "value": "Conservator"
     },
     {
         "aID": "17c",
-        "value": "Gregor Mendel"
+        "value": "Aircell"
     },
     {
         "aID": "17d",
-        "value": "Thomas Cook"
+        "value": "All Options are correct."
     },
     {
         "aID": "18a",
-        "value": "Adjust the output Power"
+        "value": " Liquid Level"
     },
     {
         "aID": "18b",
-        "value": "Generate Steam"
+        "value": "Liquid Velocity"
     },
     {
         "aID": "18c",
-        "value": "Evaporate Steam"
+        "value": "Liquid Flow Direction & its Velocity"
     },
     {
         "aID": "18d",
-        "value": "Drive turbine connected to a generator"
+        "value": "Liquid Temperature"
     },
     {
         "aID": "19a",
-        "value": "Wires"
+        "value": "Inspire the next"
     },
     {
         "aID": "19b",
-        "value": "Tankers"
+        "value": "The Power Behind Power"
     },
     {
         "aID": "19c",
-        "value": "Transformers"
+        "value": "Quest for Quality Ends Here"
     },
     {
         "aID": "19d",
-        "value": "Iron"
+        "value": "Global Technology For Local Needs"
     },
-    {
+    { 
         "aID": "20a",
-        "value": "Apple"
+        "value": "Buchholz Relay"
     },
     {
         "aID": "20b",
-        "value": "Sony"
+        "value": "Flow Indicator"
     },
     {
         "aID": "20c",
-        "value": "Samsung"
+        "value": "Bushings"
     },
     {
         "aID": "20d",
-        "value": "BOSE"
+        "value": "Oil Level Indicator"
     },
     {
         "aID": "21a",
-        "value": "Coal"
+        "value": "OLI Series"
     },
     {
         "aID": "21b",
-        "value": "Oil"
+        "value": "PRV T-3-LS"
     },
     {
         "aID": "21c",
-        "value": "Natural gas"
+        "value": "GOR-1"
     },
     {
         "aID": "21d",
@@ -337,978 +348,258 @@
     },
     {
         "aID": "22a",
-        "value": "Appu Ghar"
+        "value": "Equal"
     },
     {
         "aID": "22b",
-        "value": "Essel World"
+        "value": "Less"
     },
     {
         "aID": "22c",
-        "value": "Greate India"
+        "value": "More"
     },
     {
         "aID": "22d",
-        "value": "No Escape"
+        "value": "There is no relation"
     },
     {
         "aID": "23a",
-        "value": "Ambedkar Stadium"
+        "value": "Current"
     },
     {
         "aID": "23b",
-        "value": "JLN Stadium"
+        "value": "Voltage"
     },
     {
         "aID": "23c",
-        "value": "National Stadium"
+        "value": "Power"
     },
     {
         "aID": "23d",
-        "value": "Vankde Stadium"
+        "value": "All of the above"
     },
     {
         "aID": "24a",
-        "value": "Wind"
+        "value": "Vertical"
     },
     {
         "aID": "24b",
-        "value": "Coal"
+        "value": "Horizontal"
     },
     {
         "aID": "24c",
-        "value": "Thermal"
+        "value": "Inclined"
     },
     {
         "aID": "24d",
-        "value": "Uranium"
+        "value": "None"
     },
     {
         "aID": "25a",
-        "value": "0.2 to 0.4 microns"
+        "value": "Vertical"
     },
     {
         "aID": "25b",
-        "value": "0.38 to 0.78 microns"
+        "value": "1 to 9 deg"
     },
     {
         "aID": "25c",
-        "value": "0 to 0.38 microns"
+        "value": "Horizontal"
     },
     {
         "aID": "25d",
-        "value": "0.5 to 0.8 microns"
+        "value": "25 to 30 deg"
     },
     {
         "aID": "26a",
-        "value": "Silicon dioxide"
+        "value": "Vertical"
     },
     {
         "aID": "26b",
-        "value": "Aluminium oxide"
+        "value": "15°"
     },
     {
         "aID": "26c",
-        "value": "Calcium oxide"
+        "value": "30°"
     },
     {
         "aID": "26d",
-        "value": "Magnesium oxide"
+        "value": "All of the above"
     },
     {
         "aID": "27a",
-        "value": "Not usable"
+        "value": "Pressure Relief Device"
     },
     {
         "aID": "27b",
-        "value": "Renewable"
+        "value": "Conservator Protection Relay"
     },
     {
         "aID": "27c",
-        "value": "Non-renewable"
+        "value": "Oil Level Indicator"
     },
     {
         "aID": "27d",
-        "value": "Environmentally friendly"
+        "value": "Gas Collecting Device"
     },
     {
         "aID": "28a",
-        "value": "Odisha"
+        "value": "Flow of Liquid Pipeline"
     },
     {
         "aID": "28b",
-        "value": "West Bengal"
+        "value": "Direction of Liquid"
     },
     {
         "aID": "28c",
-        "value": "Assam"
+        "value": "Liquid Temperature"
     },
     {
         "aID": "28d",
-        "value": "Bihar"
+        "value": "None"
     },
     {
         "aID": "29a",
-        "value": "Uttarakhand"
+        "value": "Flow Indicator"
     },
     {
         "aID": "29b",
-        "value": "Himachal Pradesh"
+        "value": "Oil Level Indicator"
     },
     {
         "aID": "29c",
-        "value": "Sikkim"
+        "value": "Level gauge"
     },
     {
         "aID": "29d",
-        "value": "Manipal"
+        "value": "None"
     },
     {
         "aID": "30a",
-        "value": "Al Gore"
+        "value": "Buchholz Relay"
     },
     {
         "aID": "30b",
-        "value": "George Bush"
+        "value": "Pressure Relief Device"
     },
     {
         "aID": "30c",
-        "value": "Barack Obama"
+        "value": "Gas Operated Relay"
     },
     {
         "aID": "30d",
-        "value": "Bill Clinton"
+        "value": "Oil Surge Relay"
     },
     {
         "aID": "31a",
-        "value": "Rajasthan"
+        "value": "Brass"
     },
     {
         "aID": "31b",
-        "value": "Tamil Nadu"
+        "value": "Wood"
     },
     {
         "aID": "31c",
-        "value": "Andhra Pradesh"
+        "value": "Porcelain"
     },
     {
         "aID": "31d",
-        "value": "Madhya Pradesh"
+        "value": "Lead"
     },
     {
         "aID": "32a",
-        "value": "Odisha"
+        "value": "Horn gaps"
     },
     {
         "aID": "32b",
-        "value": "Jharkhand"
+        "value": "Thermal overload relays"
     },
     {
         "aID": "32c",
-        "value": "West Bengal"
+        "value": "Breather"
     },
     {
         "aID": "32d",
-        "value": "Bihar"
+        "value": "Conservator"
     },
     {
         "aID": "33a",
-        "value": "1976"
+        "value": "Porcelain Bushing"
     },
     {
         "aID": "33b",
-        "value": "1975"
+        "value": "Buchholz Relay"
     },
     {
         "aID": "33c",
-        "value": "1905"
+        "value": "Terminal Boxes"
     },
     {
         "aID": "33d",
-        "value": "1985"
+        "value": "Pressure Relief Device"
     },
     {
         "aID": "34a",
-        "value": "Piyush Pandey"
+        "value": "OIL Drain"
     },
     {
         "aID": "34b",
-        "value": "Arindam Chaudhary"
+        "value": "Gas Release"
     },
     {
         "aID": "34c",
-        "value": "Sam Pitroda"
+        "value": "Drain Oil from BR"
     },
     {
         "aID": "34d",
-        "value": "Subrat Roy Sahara"
+        "value": "None"
     },
     {
         "aID": "35a",
-        "value": "Orissa"
+        "value": "Round"
     },
     {
         "aID": "35b",
-        "value": "Chhattisgarh"
+        "value": "Square"
     },
     {
         "aID": "35c",
-        "value": "Bihar"
+        "value": "Triangle"
     },
     {
         "aID": "35d",
-        "value": "Jharkhand"
+        "value": "Hexagonal"
     },
     {
         "aID": "36a",
-        "value": "Vison statement"
+        "value": "2 inch"
     },
     {
         "aID": "36b",
-        "value": "Mission Statement"
+        "value": "4 inch"
     },
     {
         "aID": "36c",
-        "value": "Policy Statement"
+        "value": "6 inch"
     },
     {
         "aID": "36d",
-        "value": "Core Values"
+        "value": "10 inch"
     },
     {
         "aID": "37a",
-        "value": "Dadri project"
+        "value": "Porcelain Bushing"
     },
     {
         "aID": "37b",
-        "value": "Faridabad Project"
+        "value": "Buchholz Relay"
     },
     {
         "aID": "37c",
-        "value": "Badarpur Project"
+        "value": "Terminal Boxes"
     },
     {
         "aID": "37d",
-        "value": "Unchahar Project"
-    },
-    {
-        "aID": "38a",
-        "value": "Balrampur Project"
-    },
-    {
-        "aID": "38b",
-        "value": "Sipat project"
-    },
-    {
-        "aID": "38c",
-        "value": "Barh Project"
-    },
-    {
-        "aID": "38d",
-        "value": "None of the above"
-    },
-    {
-        "aID": "39a",
-        "value": "Power Grid"
-    },
-    {
-        "aID": "39b",
-        "value": "NHPC"
-    },
-    {
-        "aID": "39c",
-        "value": "Reliance Energy"
-    },
-    {
-        "aID": "39d",
-        "value": "NTPC"
-    },
-    {
-        "aID": "40a",
-        "value": "R. K Singh"
-    },
-    {
-        "aID": "40b",
-        "value": "Piyush Goyal"
-    },
-    {
-        "aID": "40c",
-        "value": "Ashwini Baishnab"
-    },
-    {
-        "aID": "40d",
-        "value": "Dharmendra Pradhan"
-    },
-    {
-        "aID": "41a",
-        "value": "Singrauli"
-    },
-    {
-        "aID": "41b",
-        "value": "Korba"
-    },
-    {
-        "aID": "41c",
-        "value": "Vindhyachal"
-    },
-    {
-        "aID": "41d",
-        "value": "Ramagundam"
-    },
-    {
-        "aID": "42a",
-        "value": "Plant Life Factor"
-    },
-    {
-        "aID": "42b",
-        "value": "Plant Load Factor"
-    },
-    {
-        "aID": "42c",
-        "value": "Plant Layout Factor"
-    },
-    {
-        "aID": "42d",
-        "value": "Product Leverage Fund"
-    },
-    {
-        "aID": "43a",
-        "value": "Liquefied Nion Gas"
-    },
-    {
-        "aID": "43b",
-        "value": "Liquefied Nitrogen Gas"
-    },
-    {
-        "aID": "43c",
-        "value": "Liquefied Nitrate Gas"
-    },
-    {
-        "aID": "43d",
-        "value": "Liquefied Natural Gas"
-    },
-    {
-        "aID": "44a",
-        "value": "Gujarat"
-    },
-    {
-        "aID": "44b",
-        "value": "Punjab"
-    },
-    {
-        "aID": "44c",
-        "value": "Kerala"
-    },
-    {
-        "aID": "44d",
-        "value": "Bihar"
-    },
-    {
-        "aID": "45a",
-        "value": "Perform Achieve and Trade"
-    },
-    {
-        "aID": "45b",
-        "value": "Persistent Achievement and Transfer"
-    },
-    {
-        "aID": "45c",
-        "value": "Perfect Achievement and Tarde"
-    },
-    {
-        "aID": "45d",
-        "value": "None of the above"
-    },
-    {
-        "aID": "46a",
-        "value": "Bihar"
-    },
-    {
-        "aID": "46b",
-        "value": "Telengana"
-    },
-    {
-        "aID": "46c",
-        "value": "Odisha"
-    },
-    {
-        "aID": "46d",
-        "value": "Kerala"
-    },
-    {
-        "aID": "47a",
-        "value": "Tamil Nadu"
-    },
-    {
-        "aID": "47b",
-        "value": "Kolkata"
-    },
-    {
-        "aID": "47c",
-        "value": "Mumbai"
-    },
-    {
-        "aID": "47d",
-        "value": "Banglore"
-    },
-    {
-        "aID": "48a",
-        "value": "Tarapore"
-    },
-    {
-        "aID": "48b",
-        "value": "Kota"
-    },
-    {
-        "aID": "48c",
-        "value": "Kalpakkam"
-    },
-    {
-        "aID": "48d",
-        "value": "None of the above"
-    },
-    {
-        "aID": "49a",
-        "value": "Malaysia"
-    },
-    {
-        "aID": "49b",
-        "value": "Singapore"
-    },
-    {
-        "aID": "49c",
-        "value": "China"
-    },
-    {
-        "aID": "49d",
-        "value": "Rome"
-    },
-    {
-        "aID": "50a",
-        "value": "Gurdeep Singh"
-    },
-    {
-        "aID": "50b",
-        "value": "Bharat Chhabra"
-    },
-    {
-        "aID": "50c",
-        "value": "Raghubir Chowdhury"
-    },
-    {
-        "aID": "50d",
-        "value": "Gurnam Singh"
-    },
-    {
-        "aID": "51a",
-        "value": "NESCL"
-    },
-    {
-        "aID": "51b",
-        "value": "NVVN"
-    },
-    {
-        "aID": "51c",
-        "value": "NSPCL"
-    },
-    {
-        "aID": "51d",
-        "value": "NHL"
-    },
-    {
-        "aID": "52a",
-        "value": "Ship breaking"
-    },
-    {
-        "aID": "52b",
-        "value": "Milk"
-    },
-    {
-        "aID": "52c",
-        "value": "Automobile"
-    },
-    {
-        "aID": "52d",
-        "value": "Handloom"
-    },
-    {
-        "aID": "53a",
-        "value": "Manipur"
-    },
-    {
-        "aID": "53b",
-        "value": "Sikkim"
-    },
-    {
-        "aID": "53c",
-        "value": "Bihar"
-    },
-    {
-        "aID": "53d",
-        "value": "Orissa"
-    },
-    {
-        "aID": "54a",
-        "value": "Fairy Queen"
-    },
-    {
-        "aID": "54b",
-        "value": "Deccan Queen"
-    },
-    {
-        "aID": "54c",
-        "value": "Delux Queen"
-    },
-    {
-        "aID": "54d",
-        "value": "Legends of south"
-    },
-    {
-        "aID": "55a",
-        "value": "ONGC"
-    },
-    {
-        "aID": "55b",
-        "value": "IOC"
-    },
-    {
-        "aID": "55c",
-        "value": "NTPC"
-    },
-    {
-        "aID": "55d",
-        "value": "SAIL"
-    },
-    {
-        "aID": "56a",
-        "value": "76,254 MW"
-    },
-    {
-        "aID": "56b",
-        "value": "70,254 MW"
-    },
-    {
-        "aID": "56c",
-        "value": "80,254 MW"
-    },
-    {
-        "aID": "56d",
-        "value": "73,254 MW"
-    },
-    {
-        "aID": "57a",
-        "value": "7"
-    },
-    {
-        "aID": "57b",
-        "value": "8"
-    },
-    {
-        "aID": "57c",
-        "value": "9"
-    },
-    {
-        "aID": "57d",
-        "value": "10"
-    },
-    {
-        "aID": "58a",
-        "value": "West Bengal"
-    },
-    {
-        "aID": "58b",
-        "value": "Kerala"
-    },
-    {
-        "aID": "58c",
-        "value": "Odisha"
-    },
-    {
-        "aID": "58d",
-        "value": "Andhra Pradesh"
-    },
-    {
-        "aID": "59a",
-        "value": "Farakka"
-    },
-    {
-        "aID": "59b",
-        "value": "Vindhyanchal"
-    },
-    {
-        "aID": "59c",
-        "value": "Chennai"
-    },
-    {
-        "aID": "59d",
-        "value": "Kayamkulam"
-    },
-    {
-        "aID": "60a",
-        "value": "Delhi"
-    },
-    {
-        "aID": "60b",
-        "value": "Noida"
-    },
-    {
-        "aID": "60c",
-        "value": "Faridabad"
-    },
-    {
-        "aID": "60d",
-        "value": "Gurgaon"
-    },
-    {
-        "aID": "61a",
-        "value": "Jharkhand"
-    },
-    {
-        "aID": "61b",
-        "value": "Bihar"
-    },
-    {
-        "aID": "61c",
-        "value": "Karnataka"
-    },
-    {
-        "aID": "61d",
-        "value": "Uttarakhand"
-    },
-    {
-        "aID": "62a",
-        "value": "2004"
-    },
-    {
-        "aID": "62b",
-        "value": "2005"
-    },
-    {
-        "aID": "62c",
-        "value": "2008"
-    },
-    {
-        "aID": "62d",
-        "value": "2007"
-    },
-    {
-        "aID": "63a",
-        "value": "UK"
-    },
-    {
-        "aID": "63b",
-        "value": "Nepal"
-    },
-    {
-        "aID": "63c",
-        "value": "India"
-    },
-    {
-        "aID": "63d",
-        "value": "Sri Lanka"
-    },
-    {
-        "aID": "64a",
-        "value": "All coal mines of NTPC"
-    },
-    {
-        "aID": "64b",
-        "value": "All coal based projects of NTPC"
-    },
-    {
-        "aID": "64c",
-        "value": "All gas based projects of NTPC"
-    },
-    {
-        "aID": "64d",
-        "value": "None of the above"
-    },
-    {
-        "aID": "65a",
-        "value": "0.005"
-    },
-    {
-        "aID": "65b",
-        "value": "0.01"
-    },
-    {
-        "aID": "65c",
-        "value": "0.02"
-    },
-    {
-        "aID": "65d",
-        "value": "0.015"
-    },
-    {
-        "aID": "66a",
-        "value": "Ujala Scheme"
-    },
-    {
-        "aID": "66b",
-        "value": "Saubhagya Scheme"
-    },
-    {
-        "aID": "66c",
-        "value": "Bijli Scheme"
-    },
-    {
-        "aID": "66d",
-        "value": "Uday Scheme"
-    },
-    {
-        "aID": "67a",
-        "value": "BHEL"
-    },
-    {
-        "aID": "67b",
-        "value": "L&T"
-    },
-    {
-        "aID": "67c",
-        "value": "GE"
-    },
-    {
-        "aID": "67d",
-        "value": "siemens"
-    },
-    {
-        "aID": "68a",
-        "value": "Bihar"
-    },
-    {
-        "aID": "68b",
-        "value": "UP"
-    },
-    {
-        "aID": "68c",
-        "value": "AP"
-    },
-    {
-        "aID": "68d",
-        "value": "MP"
-    },
-    {
-        "aID": "69a",
-        "value": "Pune"
-    },
-    {
-        "aID": "69b",
-        "value": "Bhopal"
-    },
-    {
-        "aID": "69c",
-        "value": "Faridabad"
-    },
-    {
-        "aID": "69d",
-        "value": "Lucknow"
-    },
-    {
-        "aID": "70a",
-        "value": "Jammu and Kashmir"
-    },
-    {
-        "aID": "70b",
-        "value": "Madhya Pradesh"
-    },
-    {
-        "aID": "70c",
-        "value": "Bihar"
-    },
-    {
-        "aID": "70d",
-        "value": "Uttaer Pradesh"
-    },
-    {
-        "aID": "71a",
-        "value": "Hum Aapke Hain Kaun"
-    },
-    {
-        "aID": "71b",
-        "value": "Lagaan"
-    },
-    {
-        "aID": "71c",
-        "value": "Mosam"
-    },
-    {
-        "aID": "71d",
-        "value": "Jism"
-    },
-    {
-        "aID": "72a",
-        "value": "South Korea"
-    },
-    {
-        "aID": "72b",
-        "value": "Italy"
-    },
-    {
-        "aID": "72c",
-        "value": "North Korea"
-    },
-    {
-        "aID": "72d",
-        "value": "France"
-    },
-    {
-        "aID": "73a",
-        "value": "India Air Force"
-    },
-    {
-        "aID": "73b",
-        "value": "India Airlines"
-    },
-    {
-        "aID": "73c",
-        "value": "Jet Airways"
-    },
-    {
-        "aID": "73d",
-        "value": "Air India"
-    },
-    {
-        "aID": "74a",
-        "value": "Ayurveda"
-    },
-    {
-        "aID": "74b",
-        "value": "Yoga"
-    },
-    {
-        "aID": "74c",
-        "value": "Unani"
-    },
-    {
-        "aID": "74d",
-        "value": "Homoepathy"
-    },
-    {
-        "aID": "75a",
-        "value": "50"
-    },
-    {
-        "aID": "75b",
-        "value": "75"
-    },
-    {
-        "aID": "75c",
-        "value": "100"
-    },
-    {
-        "aID": "75d",
-        "value": "125"
-    },
-    {
-        "aID": "76a",
-        "value": "10"
-    },
-    {
-        "aID": "76b",
-        "value": "20"
-    },
-    {
-        "aID": "76c",
-        "value": "30"
-    },
-    {
-        "aID": "76d",
-        "value": "40"
-    },
-    {
-        "aID": "77a",
-        "value": "100"
-    },
-    {
-        "aID": "77b",
-        "value": "125"
-    },
-    {
-        "aID": "77c",
-        "value": "150"
-    },
-    {
-        "aID": "77d",
-        "value": "175"
-    },
-    {
-        "aID": "78a",
-        "value": "NTPC"
-    },
-    {
-        "aID": "78b",
-        "value": "SBI"
-    },
-    {
-        "aID": "78c",
-        "value": "BHEL"
-    },
-    {
-        "aID": "78d",
-        "value": "Coal India"
-    },
-    {
-        "aID": "79a",
-        "value": "Pranab Prakash Das"
-    },
-    {
-        "aID": "79b",
-        "value": "Pratap Keshri Deb"
-    },
-    {
-        "aID": "79c",
-        "value": "Atanu S. Nayak"
-    },
-    {
-        "aID": "79d",
-        "value": "Ashok Panda"
-    },
-    {
-        "aID": "80a",
-        "value": "Venus"
-    },
-    {
-        "aID": "80b",
-        "value": "Mars"
-    },
-    {
-        "aID": "80c",
-        "value": "Jupiter"
-    },
-    {
-        "aID": "80d",
-        "value": "Saturn"
-    },
-    {
-        "aID": "81a",
-        "value": "IRDA"
-    },
-    {
-        "aID": "81b",
-        "value": "EPFO"
-    },
-    {
-        "aID": "81c",
-        "value": "ESIC"
-    },
-    {
-        "aID": "81d",
-        "value": "CRA"
-    },
-    {
-        "aID": "82a",
-        "value": "Arsenic"
-    },
-    {
-        "aID": "82b",
-        "value": "Cadmium"
-    },
-    {
-        "aID": "82c",
-        "value": "Silicon"
-    },
-    {
-        "aID": "82d",
-        "value": "Steel"
+        "value": "Pressure Relief Device"
     }
 ]
